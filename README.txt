@@ -1,5 +1,3 @@
----
-
 # Gemini-Speaker: AI-Powered English Speaking Assistant 🎤
 
 ## Overview  
@@ -95,4 +93,3 @@ User: What is block chain?
 ## License  
 This project is licensed under the MIT License.  
 
---- 
