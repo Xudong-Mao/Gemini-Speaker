@@ -1,0 +1,10 @@
+markdown-it-py==3.0.0
+mdurl==0.1.2
+numpy==2.2.0
+opencv-python==4.10.0.84
+pillow==11.0.0
+pyaudio==0.2.14
+pygments==2.18.0
+rich==13.9.4
+six==1.17.0
+websockets==14.1
